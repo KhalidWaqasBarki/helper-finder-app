@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "218696246836",
+    "project_id": "helper-finder-c7339",
+    "storage_bucket": "helper-finder-c7339.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:218696246836:android:3d2c837c31b8ea52ec8c61",
+        "android_client_info": {
+          "package_name": "com.example.helper_finder"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "218696246836-fqtgr2o2a1ip2teb6ds23378e6eq142r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD_IjOdnBiqAzWAX_mJFc2trmeMxnDoW1U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "218696246836-fqtgr2o2a1ip2teb6ds23378e6eq142r.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "218696246836-g2g7k08hr1b7ors6sjb21adn314800pc.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.helperFinder"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
